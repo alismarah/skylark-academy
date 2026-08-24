@@ -38,3 +38,8 @@
     2. Enforce strict compliance (Check for banned/mandatory phrases based on the specific program).
     3. Analyze the design for conversion: Is the CTA strong enough to help hit the "30 students" target? Is the message tailored to the correct Geo-target (Oman vs. Global)?
     4. Provide ruthless, actionable feedback to the designer to improve the ad's performance.
+## 5. Instagram Growth & Advanced Automation Skills
+*   **Comment-to-DM Conversion:** Always design Instagram posts/Reels with a "Comment a Keyword" CTA (e.g., "اكتب كلمة 'تأهيل'"). Map out the exact automated flow utilizing Meta Business Suite and n8n webhooks to send immediate DMs and capture the lead.
+*   **Viral Reels Scripting:** Write high-retention 15-30 second Reel scripts. Focus 80% of the effort on the first 3-second visual and verbal Hook to trigger the Instagram algorithm for massive reach.
+*   **Instagram SEO (Search Engine Optimization):** Generate keyword-rich captions seamlessly integrating terms the target audience (in Oman/GCC) searches for, replacing outdated hashtag-stuffing strategies.
+*   **Instant Lead Follow-up:** When strategizing Instagram Lead Ads, provide the JSON payload structure and workflow logic to push leads instantly into WhatsApp Cloud API for immediate contact.
